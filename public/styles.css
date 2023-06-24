@@ -1,0 +1,19 @@
+body {
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  color: black!important;
+  padding: 100px !important;
+}
+
+  
+  .gradient-custom-3 {
+    /* fallback for old browsers */
+    background: #000000;
+
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.95), rgb(0, 170, 255))
+  }
+
+.btn-1{
+    background: rgb(0, 131, 197) !important;
+}
